@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14616
   title: མཆན་བརྒྱབ་ལྷན་ཐབས།
-  volume: ''
+  volume:
+    e1b87122fe484edd922b51efd0d12a78:
+      image_group_id: I1KG15621
+      title: Volume 1 of mchan brgya ba lhan thabs/
+      volume_number: 1
+      total_pages: 662
   author: ''
+ebook_metadata:
+  title: མཆན་བརྒྱབ་ལྷན་ཐབས།
+  author: ''
+  sku: P007120
+  cover: cover.jpg
+  layers:
+  - pagination
