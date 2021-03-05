@@ -1,15 +1,16 @@
-id: opecha:P007120
+id: P007120
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14616
   title: མཆན་བརྒྱབ་ལྷན་ཐབས།
-  volume:
+  author: ''
+  volumes:
     e1b87122fe484edd922b51efd0d12a78:
       image_group_id: I1KG15621
       title: Volume 1 of mchan brgya ba lhan thabs/
       volume_number: 1
       total_pages: 662
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མཆན་བརྒྱབ་ལྷན་ཐབས།
   author: ''
